@@ -10,9 +10,9 @@
 [submodule "bundle/mustang"]
 	path = bundle/mustang
 	url = https://github.com/croaker/mustang-vim
-[submodule "vim-distinguished"]
-	path = vim-distinguished
-	url = https://github.com/Lokaltog/vim-distinguished
 [submodule "bundle/syntastic"]
 	path = bundle/syntastic
 	url = https://github.com/scrooloose/syntastic
+[submodule "bundle/distinguished"]
+	path = bundle/distinguished
+	url = https://github.com/Lokaltog/vim-distinguished
