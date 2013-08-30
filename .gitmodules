@@ -19,3 +19,6 @@
 [submodule "bundle/summerfruit"]
 	path = bundle/summerfruit
 	url = https://github.com/baeuml/summerfruit256.vim
+[submodule "bundle/solarized"]
+	path = bundle/solarized
+	url = https://github.com/altercation/vim-colors-solarized
