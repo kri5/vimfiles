@@ -28,3 +28,6 @@
 [submodule "bundle/vim-bats"]
 	path = bundle/vim-bats
 	url = git://github.com/markcornick/vim-bats.git
+[submodule "bundle/vim-terraform"]
+	path = bundle/vim-terraform
+	url = https://github.com/hashivim/vim-terraform.git
